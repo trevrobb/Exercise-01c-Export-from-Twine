@@ -29,8 +29,8 @@ Copy the following, and paste it at the top of the main.py window:
 ```
 world = {}
 
-if "name" in world and "passages" in world:
-    print(world["name"])
+if "story" in world and "passages" in world:
+    print(world["story"])
     print()
     for passage in world["passages"]:
         print(passage["name"])
