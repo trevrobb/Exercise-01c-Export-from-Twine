@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220
 
+A demonstration of this exercise is available at [https://youtu.be/7xsLqfCRx54](https://youtu.be/7xsLqfCRx54)
+
 This exercise will set up Twine to be able to export a version of an interactive fiction game that could be used in a Python game engine.
 
 Begin by Forking this repository. Check that it has been forked successfully; the repository should now read [your username]/Exercise-01c-Export-from-Twine
